@@ -2,3 +2,5 @@
 **In this jorunal written in HTML, I'll document my process of learning to code from zero on my own.**
 
 *Forgive my spelling and grammar mistakes; English is not my native language.*
+
+*Note: the format for the dates are DD/MM/YY*
